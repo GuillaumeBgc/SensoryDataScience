@@ -25,12 +25,6 @@ id: 1
 .accordion label {
   display: block;
 }
-body {
-  font: 16px/1.5em "Overpass", "Open Sans", Helvetica, sans-serif;
-  color: #333;
-  font-weight: 300;
-  
-}
 .accordion {
   margin-bottom: 1em;
 }
@@ -57,21 +51,6 @@ body {
   background: #4E92B2;
 }
 
-
-body {
-  padding: 40px;
-}
-a {
-  color: #06c;
-}
-p {
-  margin: 0 0 1em;
-}
-h1 {
-  margin: 0 0 1.5em;
-  font-weight: 600;
-  font-size: 1.5em;
-}
 .accordion {
   max-width: 65em;
 }
@@ -89,7 +68,7 @@ height: 1px;
 
 <exercise id="1" title="From sensory data collection to a collection of sensory data">
 
-One of the most common situation when dealing with *quantitative perception* occurs when a set of stimuli is assessed by panelists according to a bunch of quantitative sensory attributes. One can distinguish between two situations: when the sensory attributes are the same from one panelist to the other, when the sensory attributes are different from one panelist to the other, what happens when panelists can use their own sensory attributes. 
+One of the most common situation when dealing with  *quantitative perception* occurs when a set of stimuli is assessed by panelists according to a bunch of quantitative sensory attributes. One can distinguish between two situations: when the sensory attributes are the same from one panelist to the other, when the sensory attributes are different from one panelist to the other, what happens when panelists can use their own sensory attributes. 
 
 In this course, we will deal essentially with the so-called *QDA* type of data, when panelists rate according to a fix list of attributes. These data are the origin of sensory data, and we will see that it's a very convenient model, from a statistical point of view: in other words you will be able to learn a lot in terms of statistical thinking from these data.
 
@@ -110,6 +89,7 @@ Let's recall that:
 
 * A data collection is the process of gathering and measuring information.
 * A data set is a collection of data. In the case of tabular data, a data set corresponds to one table, where every column of the table represents a particular variable, and each row corresponds to a given record of the data set in question. 
+
 
 </exercise>
 
