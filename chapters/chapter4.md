@@ -7,7 +7,7 @@ type: chapter
 id: 4
 ---
 
-<exercise id="1" title="Presentation des diapo" type="slides">
+<exercise id="1" title="Presentation des diapos" type="slides">
 
 <slides source="chapter1_01_introduction">
 </slides>
